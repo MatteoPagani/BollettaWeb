@@ -1,7 +1,7 @@
 [
     {
       "id": 25,
-      "date": "09/16/2022",
+      "date": "09/09/2022",
       "institution": "Enel",
       "account": "Visa Desjardins",
       "merchant": "STM",
@@ -16,7 +16,7 @@
     },
     {
       "id": 24,
-      "date": "09/16/2022",
+      "date": "09/09/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Copper Branch",
@@ -31,7 +31,7 @@
     },
     {
       "id": 23,
-      "date": "08/15/2022",
+      "date": "01/08/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Payroll",
@@ -46,7 +46,7 @@
     },
     {
       "id": 22,
-      "date": "08/14/2022",
+      "date": "01/08/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Interest Charges",
@@ -61,7 +61,7 @@
     },
     {
       "id": 21,
-      "date": "07/04/2022",
+      "date": "01/07/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Uber.com",
@@ -76,7 +76,7 @@
     },
     {
       "id": 20,
-      "date": "07/03/2022",
+      "date": "01/07/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Payment",
@@ -91,7 +91,7 @@
     },
     {
       "id": 19,
-      "date": "06/03/2022",
+      "date": "03/06/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Bill payment - Desjardins Visa Or Modulo",
@@ -106,7 +106,7 @@
     },
     {
       "id": 18,
-      "date": "06/02/2022",
+      "date": "02/06/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Telus Mobility",
@@ -121,7 +121,7 @@
     },
     {
       "id": 17,
-      "date": "05/01/2022",
+      "date": "01/05/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Amazon",
@@ -136,7 +136,7 @@
     },
     {
       "id": 15,
-      "date": "04/31/2022",
+      "date": "31/04/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Costco",
@@ -151,7 +151,7 @@
     },
     {
       "id": 14,
-      "date": "03/05/2022",
+      "date": "05/03/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Payroll",
@@ -166,7 +166,7 @@
     },
     {
       "id": 2,
-      "date": "02/03/2022",
+      "date": "04/03/2022",
       "institution": "Desjardins",
       "account": "Visa Desjardins",
       "merchant": "Uber Eats",
@@ -181,7 +181,7 @@
     },
     {
       "id": 1,
-      "date": "01/01/2022",
+      "date": "03/01/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Rent",
