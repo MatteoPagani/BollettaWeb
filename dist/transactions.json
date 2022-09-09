@@ -136,11 +136,11 @@
     },
     {
       "id": 15,
-      "date": "30/04/2022",
+      "date": "29/04/2022",
       "institution": "Desjardins",
       "account": "Personal chequing account",
       "merchant": "Costco",
-      "amount": 135.28,
+      "amount": 135.21,
       "type": "debit",
       "categoryId": 501,
       "category": "Groceries",
